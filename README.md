@@ -9,7 +9,6 @@
 
 KAAL is a comprehensive productivity platform that serves as an **executive function AI assistant** for deep work sessions. It combines intelligent task management, focus tracking, AI-powered insights, and advanced analytics to help high-performers achieve peak productivity.
 
-**Live Demo**: [Coming Soon]  
 **Hackathon**: SAI University FOSS Club Hackathon 2026  
 **Team**: JAIRAM  
 **Developer**: Akulapalli Jayaram
